@@ -1,0 +1,4 @@
+# Place your Groq API key here
+# Get your API key from: https://console.groq.com/keys
+# Format: Key = your_actual_api_key_here
+Key = 
